@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="201" height="40" viewBox="0 0 201 40">
+    <path
+        d="M18.865,31.913a2,2,0,0,1-2.841,0l-4.59-4.63A6.681,6.681,0,0,0,0,32.089V38a2,2,0,0,0,2,2H32.889a2,2,0,0,0,2-2V20.607a2,2,0,0,0-3.42-1.408Z"
+        fill="#ff5d3c" />
+    <path
+        d="M16.024,8.087a2,2,0,0,1,2.841,0l4.59,4.63A6.681,6.681,0,0,0,34.889,7.911V2a2,2,0,0,0-2-2H2A2,2,0,0,0,0,2V19.393A2,2,0,0,0,3.42,20.8Z"
+        fill="#ff5d3c" />
+    <text transform="translate(121 32)" fill="#fff" font-size="32"
+        font-family="TrebuchetMS-Bold, Trebuchet MS" font-weight="700">
+        <tspan x="-79.578" y="0">Zeromedia</tspan>
+    </text>
+</svg>

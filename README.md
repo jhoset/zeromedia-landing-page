@@ -1,6 +1,8 @@
 # Media Website Landing Page
 
 This project showcases a beautifully designed landing page that is fully responsive, providing an optimal viewing experience across a wide range of devices, including desktops, tablets, and mobile phones. It features modern design elements and smooth animations to captivate users and effectively communicate the brand message.
+![imagen](https://github.com/jhoset/zeromedia-landing-page/assets/29497145/ae80b71e-8656-4087-9f0e-3aa41810357a)
+
 
 ## Technologies Used
 
